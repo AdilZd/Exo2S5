@@ -1,0 +1,8 @@
+
+
+let scale = ['nombre 20', 'nombre 21', 'nombre 22'];
+console.log(scale)
+
+let prenom = 'Adil';
+scale.push(prenom);
+console.log(scale);
